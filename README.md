@@ -8,26 +8,18 @@ I work mostly with Python to build end-to-end pipelines for detection, segmentat
 
 ---
 
-## What I Do
 
-- Computer Vision Systems
-- AI Model Integration (YOLO, segmentation models)
-- Image Processing with OpenCV
-- Data Analysis & Analytics Pipelines
-- Automation and AI-driven workflows
+## GitHub Stats
 
-My focus is not just training models, but building **complete systems**:
-from data processing → model inference → measurement → structured outputs.
+![Eril's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErilW&show_icons=true&theme=tokyonight)
 
----
+## Most Used Languages
 
-## Current Interests
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErilW&layout=compact&theme=tokyonight)
 
-- Industrial computer vision
-- Edge AI and lightweight inference
-- Small language models on device
-- AI-assisted analytics
-- Data-driven decision systems
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ErilW&theme=tokyonight)
 
 ---
 
@@ -37,6 +29,7 @@ from data processing → model inference → measurement → structured outputs.
 
 - Python
 - SQL
+- C++
 
 **AI / ML**
 
@@ -59,37 +52,17 @@ from data processing → model inference → measurement → structured outputs.
 
 ---
 
-## Example Work
+## Quote
 
-Some types of systems I build:
-
-- Object detection pipelines using YOLO
-- Automated measurement from images using geometric analysis
-- Color extraction and analysis from segmented regions
-- Industrial inspection pipelines
-- Data analytics reports for environmental and urban problems
+“Your enemy can’t guess your strategy if you don’t have any.”
+~ Sun Tzu
 
 ---
 
-## Philosophy
+## Social Media
 
-I believe AI engineering is not about training models alone.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eril-sanjaya)
 
-Real value comes from building **robust systems that connect models to real-world decisions**.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erilsan._/)
 
 ---
-
-
-## GitHub Stats
-
-![Eril's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErilW&show_icons=true&theme=tokyonight)
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErilW&layout=compact&theme=tokyonight)
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ErilW&theme=tokyonight)
-
-
