@@ -1,5 +1,7 @@
 # Hi, I'm Eril
 
+![happy cat](https://media1.tenor.com/m/bWUeVRqW9-IAAAAC/fast-cat-cat-excited.gif)
+
 AI Engineer focused on building practical computer vision and data systems.
 
 I work mostly with Python to build end-to-end pipelines for detection, segmentation, and measurement tasks using deep learning models such as YOLO. My work often combines machine learning with traditional computer vision techniques to solve real-world industrial and environmental problems.
@@ -89,4 +91,5 @@ Real value comes from building **robust systems that connect models to real-worl
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ErilW&theme=tokyonight)
+
 
